@@ -22,3 +22,8 @@ git checkout -b branch1
 
 # to change branches
 git checkout branchname
+
+# merge branches to main
+ensure we are on the main branch
+git merge branchname that we want to merge on to main
+(git merge branch1)
