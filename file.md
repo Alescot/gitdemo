@@ -19,3 +19,6 @@ git config --global unit.defaultbranch main
 git checkout -b branch1
 
 # one more change to show new branch path
+
+# to change branches
+git checkout branchname
